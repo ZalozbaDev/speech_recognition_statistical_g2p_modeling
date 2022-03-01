@@ -32,3 +32,13 @@ Outputs:
     * see folder "model/"
 * generated lexicon ("hsb_g2p.lex") using the model
     * see folder "output/"
+
+## Authors
+
+- Dr. Ivan Kraljevski (Fraunhofer Institute for Ceramic Technologies and Systems IKTS, Dresden, Germany)
+
+- Daniel Sobe (Foundation for the Sorbian people)
+
+## License
+
+See file "LICENSE".
