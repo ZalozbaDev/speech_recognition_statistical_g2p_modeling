@@ -18,6 +18,7 @@ Running:
 docker build [--build-arg ARCHITECTURE=XXXXX] -t speech_recognition_acoustic_model_training_step1 .
 ```
 
+* Build argument "ARCHITECTURE":
     * leave out "ARCHITECTURE" to build for x86_64
     * specify the following for different architectures:
         * Raspberry Pi 0/1: ARCHITECTURE=linux_armv6l
