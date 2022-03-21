@@ -4,6 +4,8 @@ This is an example project to demonstrate how tooling can be used to generate ph
 descriptions for words using a statistical approach, assuming that a large enough 
 phonetical lexicon exists.
 
+Documentation which was used to generate these examples can be found in the "report" folder.
+
 Inputs:
 * manually created example lexicon ("lexicon.lex")
 * example list of new words ("hsb.vocab") to generate phonemes for
